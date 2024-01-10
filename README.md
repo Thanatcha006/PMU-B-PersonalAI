@@ -12,4 +12,4 @@
 ### AI for arresting criminal
 - Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/381b367ba1ee831731f315a18bcda057d25a73b1)
 
-- [<img src="cover.jpg" alt="drawing" width="300"/>](https://ibb.co/2sXB4C2.jpg)](https://youtu.be/nUxaB0LGy4A?)
+- [<img src="cover.jpg" alt="drawing" width="300"/>](https://pic.in.th/image/417686845-1181605409913062-6546916061183589537-n-%281%29.amdWER.jpg)](https://youtu.be/nUxaB0LGy4A?)
