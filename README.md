@@ -11,4 +11,4 @@
 - Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/6817de467ed0cb09f66b3544c5aa4fe6ac2ae677)
 ### AI for arresting criminal
 - Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/381b367ba1ee831731f315a18bcda057d25a73b1)
-[![Watch the video](https://ibb.co/2sXB4C2.jpg)](https://youtu.be/nUxaB0LGy4A?)
+[<img src="cover.jpg" alt="drawing" width="300"/>](https://ibb.co/2sXB4C2.jpg)](https://youtu.be/nUxaB0LGy4A?)
