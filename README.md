@@ -1,6 +1,6 @@
 # PMU-B-PersonalAI
 ### xPore: An AI-Powered App for Bioinformaticians
-- [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/a33339016191df7ef60ae3a4328a7a53199999de)
+- Homework[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/a33339016191df7ef60ae3a4328a7a53199999de)
 ### Learning from Biosignal [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/102f8d8b08ccaeaa233f5f9935656ebc401e56e8)
 ### AI for detecting code plagiarism [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/b95609eac8d08f42930280675709f1a61b716d5d)
 ### BiTNet: AI for diagnosing ultrasound image [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/3f9e8c8f36be17d4fc7168c2fe5309fd4bccc03b)
